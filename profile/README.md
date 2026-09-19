@@ -176,4 +176,4 @@ If you're making something, you're already part of the reason this community exi
 
 **Build something. Show us. Let's see what happens.**
 
-[**Join localghosters →**](https://github.com/orgs/localghosters/discussions)
+[**Join localghosters →**](https://discord.gg/quQsxDrvD)
