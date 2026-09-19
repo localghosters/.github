@@ -138,7 +138,7 @@ You don't need an invitation.
 
 Check out the community discussions and jump into a conversation, ask something, share a project, or help someone else.
 
-👉 **[Join the discussions](https://github.com/localghosters/discussions)**
+👉 **[Join the discussions](https://github.com/orgs/localghosters/discussions)**
 
 Have a project you'd like people to look at?
 
@@ -176,4 +176,4 @@ If you're making something, you're already part of the reason this community exi
 
 **Build something. Show us. Let's see what happens.**
 
-[**Join localghosters →**](https://github.com/localghosters/discussions)
+[**Join localghosters →**](https://github.com/orgs/localghosters/discussions)
