@@ -178,6 +178,6 @@ If you're making something, you're already part of the reason this community exi
 
 [**Join localghosters →**](https://discord.gg/p27sSAkpAu)
 
-or 
+**or**
 
 [Reach out on Zap ⚡](https://sam3360.github.io/Zap/dashboard.html?join=N7AWAC)
