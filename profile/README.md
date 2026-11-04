@@ -177,3 +177,7 @@ If you're making something, you're already part of the reason this community exi
 **Build something. Show us. Let's see what happens.**
 
 [**Join localghosters →**](https://discord.gg/p27sSAkpAu)
+
+or 
+
+[Reach out on Zap ⚡](https://sam3360.github.io/Zap/dashboard.html?join=N7AWAC)
